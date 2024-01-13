@@ -1,2 +1,2 @@
 # appointment
-Appoitment booking app
+Appointment booking app
